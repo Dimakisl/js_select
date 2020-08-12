@@ -1,0 +1,7 @@
+нужен parsel  https://parceljs.org/  также используется scss но его установит сам parcel
+
+установка      npm install -g parcel-bundler
+
+запуск в CMD  parcel index.html
+
+зайти по адресу:  http://localhost:1234
